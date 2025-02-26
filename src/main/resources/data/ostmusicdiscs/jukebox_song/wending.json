@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.ostmusicdiscs.wending_music_disc.desc"
+  },
+  "length_in_seconds": 314.0,
+  "sound_event": "ostmusicdiscs:wending"
+}

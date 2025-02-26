@@ -1,0 +1,474 @@
+{
+  "a_familiar_room": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:a_familiar_room",
+        "stream": true
+      }
+    ]
+  },
+  "aerie": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:aerie",
+        "stream": true
+      }
+    ]
+  },
+  "alpha": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:alpha",
+        "stream": true
+      }
+    ]
+  },
+  "an_ordinary_day": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:an_ordinary_day",
+        "stream": true
+      }
+    ]
+  },
+  "ancestry": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:ancestry",
+        "stream": true
+      }
+    ]
+  },
+  "aria_math": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:aria_math",
+        "stream": true
+      }
+    ]
+  },
+  "axolotl": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:axolotl",
+        "stream": true
+      }
+    ]
+  },
+  "ballad_of_the_cats": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:ballad_of_the_cats",
+        "stream": true
+      }
+    ]
+  },
+  "beginning_2": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:beginning_2",
+        "stream": true
+      }
+    ]
+  },
+  "biome_fest": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:biome_fest",
+        "stream": true
+      }
+    ]
+  },
+  "blind_spots": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:blind_spots",
+        "stream": true
+      }
+    ]
+  },
+  "boss": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:boss",
+        "stream": true
+      }
+    ]
+  },
+  "bromeliad": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:bromeliad",
+        "stream": true
+      }
+    ]
+  },
+  "chrysopoeia": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:chrysopoeia",
+        "stream": true
+      }
+    ]
+  },
+  "clark": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:clark",
+        "stream": true
+      }
+    ]
+  },
+  "comforting_memories": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:comforting_memories",
+        "stream": true
+      }
+    ]
+  },
+  "concrete_halls": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:concrete_halls",
+        "stream": true
+      }
+    ]
+  },
+  "crescent_dunes": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:crescent_dunes",
+        "stream": true
+      }
+    ]
+  },
+  "danny": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:danny",
+        "stream": true
+      }
+    ]
+  },
+  "dead_voxel": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:dead_voxel",
+        "stream": true
+      }
+    ]
+  },
+  "deeper": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:deeper",
+        "stream": true
+      }
+    ]
+  },
+  "dragon_fish": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:dragon_fish",
+        "stream": true
+      }
+    ]
+  },
+  "dreiton": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:dreiton",
+        "stream": true
+      }
+    ]
+  },
+  "dry_hands": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:dry_hands",
+        "stream": true
+      }
+    ]
+  },
+  "echo_in_the_wind": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:echo_in_the_wind",
+        "stream": true
+      }
+    ]
+  },
+  "eld_unknown": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:eld_unknown",
+        "stream": true
+      }
+    ]
+  },
+  "endless": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:endless",
+        "stream": true
+      }
+    ]
+  },
+  "featherfall": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:featherfall",
+        "stream": true
+      }
+    ]
+  },
+  "firebugs": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:firebugs",
+        "stream": true
+      }
+    ]
+  },
+  "floating_dream": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:floating_dream",
+        "stream": true
+      }
+    ]
+  },
+  "floating_trees": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:floating_trees",
+        "stream": true
+      }
+    ]
+  },
+  "haggstrom": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:haggstrom",
+        "stream": true
+      }
+    ]
+  },
+  "haunt_muskie": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:haunt_muskie",
+        "stream": true
+      }
+    ]
+  },
+  "infinite_amethyst": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:infinite_amethyst",
+        "stream": true
+      }
+    ]
+  },
+  "key": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:key",
+        "stream": true
+      }
+    ]
+  },
+  "komorebi": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:komorebi",
+        "stream": true
+      }
+    ]
+  },
+  "labyrinthine": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:labyrinthine",
+        "stream": true
+      }
+    ]
+  },
+  "left_to_bloom": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:left_to_bloom",
+        "stream": true
+      }
+    ]
+  },
+  "living_mice": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:living_mice",
+        "stream": true
+      }
+    ]
+  },
+  "mice_on_venus": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:mice_on_venus",
+        "stream": true
+      }
+    ]
+  },
+  "minecraft": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:minecraft",
+        "stream": true
+      }
+    ]
+  },
+  "moog_city_2": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:moog_city_2",
+        "stream": true
+      }
+    ]
+  },
+  "mutation": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:mutation",
+        "stream": true
+      }
+    ]
+  },
+  "one_more_day": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:one_more_day",
+        "stream": true
+      }
+    ]
+  },
+  "oxygene": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:oxygene",
+        "stream": true
+      }
+    ]
+  },
+  "pokopoko": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:pokopoko",
+        "stream": true
+      }
+    ]
+  },
+  "puzzlebox": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:puzzlebox",
+        "stream": true
+      }
+    ]
+  },
+  "rubedo": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:rubedo",
+        "stream": true
+      }
+    ]
+  },
+  "shuniji": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:shuniji",
+        "stream": true
+      }
+    ]
+  },
+  "so_below": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:so_below",
+        "stream": true
+      }
+    ]
+  },
+  "stand_tall": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:stand_tall",
+        "stream": true
+      }
+    ]
+  },
+  "subwoofer_lullaby": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:subwoofer_lullaby",
+        "stream": true
+      }
+    ]
+  },
+  "sweden": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:sweden",
+        "stream": true
+      }
+    ]
+  },
+  "taswell": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:taswell",
+        "stream": true
+      }
+    ]
+  },
+  "the_end": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:the_end",
+        "stream": true
+      }
+    ]
+  },
+  "warmth": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:warmth",
+        "stream": true
+      }
+    ]
+  },
+  "wending": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:wending",
+        "stream": true
+      }
+    ]
+  },
+  "wet_hands": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:wet_hands",
+        "stream": true
+      }
+    ]
+  },
+  "yakusoku": {
+    "sounds": [
+      {
+        "name": "ostmusicdiscs:yakusoku",
+        "stream": true
+      }
+    ]
+  }
+}

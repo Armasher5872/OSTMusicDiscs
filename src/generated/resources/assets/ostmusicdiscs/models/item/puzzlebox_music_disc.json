@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ostmusicdiscs:item/puzzlebox_music_disc"
+  }
+}

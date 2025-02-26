@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ostmusicdiscs:item/eld_unknown_music_disc"
+  }
+}

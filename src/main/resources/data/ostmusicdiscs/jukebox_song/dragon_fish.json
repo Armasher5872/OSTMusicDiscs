@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.ostmusicdiscs.dragon_fish_music_disc.desc"
+  },
+  "length_in_seconds": 372.0,
+  "sound_event": "ostmusicdiscs:dragon_fish"
+}

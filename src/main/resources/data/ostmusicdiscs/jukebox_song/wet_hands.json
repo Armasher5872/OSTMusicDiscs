@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.ostmusicdiscs.wet_hands_music_disc.desc"
+  },
+  "length_in_seconds": 89.0,
+  "sound_event": "ostmusicdiscs:wet_hands"
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.ostmusicdiscs.an_ordinary_day_music_disc.desc"
+  },
+  "length_in_seconds": 331.0,
+  "sound_event": "ostmusicdiscs:an_ordinary_day"
+}

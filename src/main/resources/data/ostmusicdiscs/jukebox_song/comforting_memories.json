@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.ostmusicdiscs.comforting_memories_music_disc.desc"
+  },
+  "length_in_seconds": 275.0,
+  "sound_event": "ostmusicdiscs:comforting_memories"
+}

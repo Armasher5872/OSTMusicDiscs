@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.ostmusicdiscs.beginning_2_music_disc.desc"
+  },
+  "length_in_seconds": 182.0,
+  "sound_event": "ostmusicdiscs:beginning_2"
+}

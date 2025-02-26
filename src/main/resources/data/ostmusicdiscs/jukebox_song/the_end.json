@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.ostmusicdiscs.the_end_music_disc.desc"
+  },
+  "length_in_seconds": 904.0,
+  "sound_event": "ostmusicdiscs:the_end"
+}

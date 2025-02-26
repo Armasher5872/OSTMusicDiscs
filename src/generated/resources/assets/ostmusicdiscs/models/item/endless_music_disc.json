@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ostmusicdiscs:item/endless_music_disc"
+  }
+}
