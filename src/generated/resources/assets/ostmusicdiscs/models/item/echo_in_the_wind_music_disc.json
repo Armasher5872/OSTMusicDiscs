@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ostmusicdiscs:item/echo_in_the_wind_music_disc"
+  }
+}
